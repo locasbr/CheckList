@@ -1,0 +1,16 @@
+.maior{
+ display: flex;
+  justify-content: center; 
+}
+
+.container{
+
+  background-color: chocolate;
+  padding: 30px;
+  height: 150px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+ 
+
+}
